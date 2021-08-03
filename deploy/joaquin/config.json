@@ -1,5 +1,5 @@
 {
-    "zone": "az-eastjoaquin",
+    "zone": "az-east",
     "region": "East",
     "template": "akdc.yaml"
 }
